@@ -1,1 +1,3 @@
-# cal_web
+### Getting started
+
+www.seanlabcoding.com
